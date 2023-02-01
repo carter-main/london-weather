@@ -1,2 +1,4 @@
 # london-weather
-Looking at weather in London between 1979 and 2020 for linear regression predicting sunshine in hours on a given day as well as taking a deep dive into the data seeing if the mean temp increase by decade could have been ovserved at random or not as well as the correlation between sunshine and global radiation.
+Looking at weather in London between 1979 and 2020 and using a linear regression model to predict sunshine in hours on a given day. 
+
+I also take a deep dive into the data to see the correlation between sunshine and global radiation, the likelihood that the mean temperature increase by decade could have been observed at random, and found the hottest and coldest day on record in our dataset. 
